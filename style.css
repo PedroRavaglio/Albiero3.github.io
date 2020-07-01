@@ -1,0 +1,67 @@
+b { 
+font-family: din-2014, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size:30px;
+color:#F2F2E9
+}
+
+b:hover {
+color:#E7C9C9
+}
+
+
+p {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:35px
+}
+
+j {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+line-height: 40px
+}
+
+k {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:20px
+}
+
+c {
+font-family: din-2014, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size:30px;
+background-color:#E7C9C9;
+color:black
+}
+
+d {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+line-height: 40px;
+color:#734E39
+}
+
+h {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:25px;
+line-height: 40px;
+}
+
+f {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:15px;
+}
